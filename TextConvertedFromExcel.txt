@@ -1,0 +1,6 @@
+emp_id|emp_name|emp_age|emp_marritial Status|emp_addresss|emp_city|
+1.0|anil|26.0|no|Andhra pradesh|vizag|
+2.0|snehal|27.0|yes|maharashtra|mumbai|
+3.0|avinash|28.0|no|karnataka|bangalore|
+4.0|devendra|29.0|no|telangana|hyberadad|
+5.0|lenin|30.0|yes|tamil nadu|chennai|
